@@ -35,8 +35,8 @@ def print_banner() -> None:
     banner = """
     ╔══════════════════════════════════════════════════════════════╗
     ║           LIVE OHLCV VALIDATION FRAMEWORK                    ║
-    ║           ─────────────────────────────────                 ║
-    ║           Real-time market data quality engine              ║
+    ║           ─────────────────────────────────                  ║
+    ║           Real-time market data quality engine               ║
     ╚══════════════════════════════════════════════════════════════╝
     """
     print(banner)
