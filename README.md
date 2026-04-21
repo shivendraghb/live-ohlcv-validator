@@ -1,3 +1,10 @@
+<img width="1919" height="890" alt="Screenshot 2026-04-16 141316" src="https://github.com/user-attachments/assets/70b02d63-35de-47f7-92dd-a816d37ceb9d" />
+<img width="1919" height="898" alt="Screenshot 2026-04-16 141349" src="https://github.com/user-attachments/assets/dbaba92f-1cf0-4197-a66b-64cdfec65af3" />
+<img width="1919" height="756" alt="Screenshot 2026-04-16 141416" src="https://github.com/user-attachments/assets/dfa1c533-84be-461d-9230-600b3cbf41dd" />
+<img width="1919" height="914" alt="Screenshot 2026-04-21 200522" src="https://github.com/user-attachments/assets/eada8a3a-9422-4e31-afe8-073b63b27fe3" />
+<img width="1909" height="910" alt="Screenshot 2026-04-21 200553" src="https://github.com/user-attachments/assets/d2610dff-96e0-415e-b21e-21ecaf943067" />
+
+
 # Live OHLCV Validation Framework
 
 A production-grade, real-time market data validation engine that ingests live cryptocurrency OHLCV (Open, High, Low, Close, Volume) data via WebSocket streams and runs it through a multi-layered validation pipeline before storage.
